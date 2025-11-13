@@ -1,4 +1,4 @@
-package com.orangeHRM;
+package com.pom;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;

@@ -1,4 +1,4 @@
-package com.bus;
+package com.busBooking;
 
 import java.time.Duration;
 import java.util.List;

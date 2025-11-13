@@ -10,7 +10,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.bus.OnlineBusBooking;
+import com.busBooking.OnlineBusBooking;
 
 public class TestOnlineBusBooking {
 	OnlineBusBooking home;

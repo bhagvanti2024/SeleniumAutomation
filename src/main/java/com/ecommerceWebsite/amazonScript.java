@@ -1,4 +1,4 @@
-package com.ecommercefile;
+package com.ecommerceWebsite;
 
 import java.time.Duration;
 import java.util.Set;

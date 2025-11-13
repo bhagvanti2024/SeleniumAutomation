@@ -1,6 +1,6 @@
 // Automating complex scenarios on Flipkart using selenium WebDriver
 
-package com.ecommercefile;
+package com.ecommerceWebsite;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

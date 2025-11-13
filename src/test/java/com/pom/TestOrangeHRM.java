@@ -1,4 +1,4 @@
-package com.orangeHRM;
+package com.pom;
 
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
